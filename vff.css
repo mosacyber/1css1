@@ -4,6 +4,14 @@
     width: 50%;
     padding: 3px !important;
 }
+  .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: #000;
+}
 #main-cart-btn i, .site-header .site-header__wrapper .header-side-panel-trigger {
     font-size: 27px;
   color:#fff;
