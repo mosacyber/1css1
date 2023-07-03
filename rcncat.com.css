@@ -1,6 +1,6 @@
-@media only screen and (max-width: 992px)
+@media only screen and (max-width: 992px){
 .salla-theme_1 footer .footer-sub .footer-wrapper {
     flex-direction: column;
     background: #10956f;
     color: #fff;
-}
+}}
