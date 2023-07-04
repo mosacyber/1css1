@@ -619,8 +619,8 @@ body:not(.salla-theme_6) .category-featured {
     }
 
     .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories li.has-children {
-        padding-top: 8px;
-        padding-bottom: 8px;
+        padding-top: 2px;
+        padding-bottom: 2px;
     }
 
     .sub-nav .sub-nav-content .sub-nav-header a {
@@ -780,9 +780,9 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) a {
 .footer-main {
     background: linear-gradient(to left, #fff, #fff) !important;
     background-image: url(https://i.imgur.com/U7Ion7V.png);
-    background: #000 !important;
+    background: #fff !important;
     background-size: 114% !important;
-    background-color: #232228!important;
+    background-color: #ffffff!important;
 }
 
 footer .store-certificate img {
@@ -1018,7 +1018,7 @@ footer .footer-sub .footer-wrapper img, footer .footer-sub .fs-cont img {
 }
 
 .slick-active button {
-    background-color: #ffdcad!important;
+    background-color: #116b36!important;
 }
 
 .slick-dots li button {
@@ -1104,17 +1104,22 @@ footer .footer-sub .footer-wrapper img, footer .footer-sub .fs-cont img {
 .bg-brand {
     background: #f2f2f2 !important;
 }
-
+ 
 .footer-main {
     border-radius: 1rem 1rem 0 0 !important;
+} 
+.footer-main * {
+    text-align: center !important;
+    color: #fff;
 }
 
 .footer-main a, .footer-main p {
-    color: #ffffff;
+    color: #116b36;
 }
 
 .footer-title span, .social__item a, .store-contact a {
     color: #fff !important;
+    padding: 1px;
 }
 
 .social__item a {
@@ -1375,9 +1380,9 @@ body.salla-theme_4 .product .product-footer {
     background: 0 0 !important;
     box-shadow: unset !important;
 }
-
+ 
 .footer-main, .salla-theme_4 .feature-item__content .feature-item__icon, .salla-theme_4 .feature-item__content p, .site-header {
-    padding-right: 2rem !important;
+    padding-right: 0rem !important;
 }
 
 .sub-nav .sub-nav-content {
@@ -1634,7 +1639,7 @@ p.mb-4.mb-md-0 {
 }
 
 .footer-sub a {
-    color: transparent !important;
+    color: #116b36 !important;
     text-decoration: underline;
 }
 
@@ -1871,7 +1876,7 @@ body:not(.salla-theme_6) .category-featured {
     font-size: 18px;
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    box-shadow: 2.5px 2.5px 5px #262220, -2.5px -2.5px 5px #403b38;
+    box-shadow: 2.5px 2.5px 5px #26222080, -2.5px -2.5px 5px #403b3861;
 }
 
 .cart-number, .active-step .cart-number {
@@ -1881,7 +1886,7 @@ body:not(.salla-theme_6) .category-featured {
 }
 
 .a2a_kit.a2a_kit_size_32.a2a_default_style {
-    background: linear-gradient(to left, #3b4a55, #222127) !important;
+    background: linear-gradient(to left, #116b36, #116b36) !important;
     padding: 8px 0px 8px 2px;
     border-radius: 30px;
 }
@@ -2194,3 +2199,85 @@ body > header > div > div > div.col-lg-4.header-row.pull-left > div.visible-xs-b
     /* height: 5px; */
     margin: -7px;
 }}
+
+
+.testimonials-item p {
+    position: relative;
+    background: #fff url(../images/quote.svg) top 1rem center no-repeat;
+    padding: 2.5rem 1rem 1.5rem;
+    border: 1px solid #116b36;
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.06);
+    box-shadow: inset 0 2px 16px 3px #116b3612;
+    border-radius: 5px;
+    margin-bottom: 1.5rem;
+}
+
+.sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories li ul {
+    background-color: transparent;
+    border-radius: 0;
+    border-right: 3px solid #116b36;
+    box-shadow: none;
+    display: none;
+    margin: 0 auto 15px;
+    max-height: unset;
+    opacity: 1;
+    padding: 0;
+    right: unset;
+    transform: unset!important;
+    transition: unset;
+    visibility: visible;
+    width: calc(100% - 30px);
+}
+
+.sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories li:last-child {
+    border: none;
+    margin: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+
+footer .footer-main .footer-item .social__item a {
+    position: relative;
+    background: #116b36;
+}
+
+@media (max-width: 780px){
+.footer-item:last-child {
+    margin-bottom: 0;
+    border: 2px solid #116b36;
+    border-radius: 26px;
+    margin-left: 23px;
+    margin-right: 23px;
+    padding: 5px;
+}}
+
+ 
+.salla-theme_1 footer .footer-title span {
+    border: none!important;
+    background: #116b36;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 12px 4px 12px 4px;
+}
+
+body > footer > div.footer-main > div > div {
+    background: #dadada;
+    padding: 24px;
+    border: 2px solid #116b36;
+    border-radius: 21px;
+    margin: 2px;
+}
+
+
+.footer-sub {
+    background: #ffffff !important;
+    font-size: 18px;
+}
+
+.footer-sub {
+    background: #116b36;
+    color: #116b36;
+    position: relative;
+    padding-top: 50px;
+}
