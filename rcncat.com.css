@@ -2014,19 +2014,6 @@ body[style] .sicon-whatsapp2::after {
 } */
 
 
-/* تعديل مكان الرقم الضريبى */
-html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, a, abbr, img, small, strong, ol, ul, li, dd, form, label, table, caption, article, aside, canvas, details, embed, figure, figcaption, footer, header {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: sub !important;
-}
-
-a.next.button-more {
-    vertical-align: bottom !important;
-}
 
 
 
