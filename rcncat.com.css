@@ -31,8 +31,8 @@ body,section{
 }
 
 .sub-nav__menu svg {
-    border: 1px solid #116b36;
-    border-radius: 50%;
+    border: 2px solid #116b36;
+    border-radius: 8px;
     background: #ffffff;
     fill: #116b36;
 }
@@ -95,7 +95,7 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li>a{
 .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories li a {
     color: #116b36;
 } 
-
+ 
 .login-link,
 .circle-action{
     border-color: #116b36;
@@ -1494,10 +1494,10 @@ section.section {
     margin: auto;
     margin-bottom: auto;
 }
-
+  
 .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories > li > ul > li a {
     color: #fff !important;
-    background: 0 0 !important;
+    background: #10956f !important;
 }
 
 @media screen and (max-width: 777px) {
@@ -2185,4 +2185,25 @@ span.price-before {
     background: linear-gradient(to right,#fff 0, #fff 50%, #fff 100%);
     border-bottom: solid #116b36;
     border-radius: 62px;
+}}
+
+
+
+body > header > div > div > div.col-lg-4.header-row.pull-left > div.visible-xs-block > a{
+
+    width: 5px;
+
+
+
+
+}
+
+body > header > div > div > div.col-lg-4.header-row.pull-left > div.visible-xs-block > a {
+    padding: 6px;
+    padding-left: 25px;
+}@media (max-width: 767px){
+.visible-xs-block {
+    display: block!important;
+    /* height: 5px; */
+    margin: -7px;
 }}
