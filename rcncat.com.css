@@ -1621,8 +1621,8 @@ span.sicon-facebook {
 }
 
 .add-cart-large, .order-btn {
-    background: #ffdcad!important;
-    border-color: #ffdcad!important;
+    background: #10956f!important;
+    border-color: #fff!important;
 }
 
 .product .product-title {
@@ -1698,7 +1698,7 @@ a {
 .product-form, .product-options {
     background-color: #ffffff !important;
     padding: 20px !important;
-    border: 1px solid #ffdcad!important;
+    border: 1px solid #10956f!important;
     border-radius: 3px;
 }
 
@@ -1780,7 +1780,7 @@ p.product-name {
         bottom: 0;
         box-shadow: 0 0 10px rgb(0 0 0 / 5%);
         padding: 10px;
-        background-color: #1b1829 !important;
+        background-color: #fff !important;
         z-index: 9999;
     }
 
@@ -1824,7 +1824,7 @@ body:not(.salla-theme_6) .category-featured {
     text-align: center !important;
     display: block;
     height: 70px !important;
-    background-image: url(https://cdn.salla.sa/exbRG/G2saMalBqXBLhFoBV54ESCu3idEqGJ6bIIIN5zUa.png);
+    background-image: url(https://cdn.salla.sa/wQmOe/us7xsHc23JGweEjcvNcqSkZ6M9BHgKzhsFUSbCc1.png);
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: top center !important;
@@ -2143,10 +2143,6 @@ span.price-before {
 }
 
 
-.store-notify {
-    background: linear-gradient(to left, #3b4a55, #222127) !important;
-    color: #fde7c0 !important;
-}
 
 .promotion-title {
     background-color: #fde7c0 ;
@@ -2181,7 +2177,7 @@ span.price-before {
     border-top: 5px solid #5f594f;
 }
 .add-cart-large, .order-btn {
-    color: #2c3139!important;
+    color: #ffffff!important;
 }
 
 @media only screen and (max-width: 991px){
