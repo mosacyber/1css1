@@ -1786,7 +1786,7 @@ p.product-name {
 }
 
 .cart-title {
-    color: #ffffff !important;
+    color: #116b36 !important;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1872,8 +1872,8 @@ body:not(.salla-theme_6) .category-featured {
 }
 
 .cart-nav-submit, .cart-nav-more, .cart-nav-solid {
-    background: linear-gradient(to left, #3b4a55, #222127) !important;
-    border-color: aliceblue !important;
+    background: #116b36 !important;
+    border-color: #1b1829 !important;
 }
 
 .social__item a {
@@ -2352,5 +2352,9 @@ body > footer > div.footer-main > div > div {
     border-radius: 12px;
     border: 2px solid #116b36;
 }
-
+.cart-number, .active-step .cart-number {
+    color: #116b36 !important;
+    border-color: #116b36!important;
+    background: #fff;
+}
 
