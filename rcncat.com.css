@@ -231,13 +231,7 @@ body.salla-default #products_div.eq-height .thumbnail.contain>:first-child .img-
     object-fit: contain;
 }
 
-.product-add {
-    background: linear-gradient(to right,#116b36 0, #116b36 50%, #116b36 100%);
-}
 
-.product-add span{
-    color: #fff;
-}
 
 .add-cart-large, .order-btn {
     background: #116b36;
@@ -248,11 +242,7 @@ body.salla-default #products_div.eq-height .thumbnail.contain>:first-child .img-
     border-radius: 25px;
 }
 
-.product-add {
-    border-radius: 18px;
-    border: none;
-    padding: 3px 1.7rem;
-}
+
 
 body.salla-theme_1 .product>a .product-title{
     color:#116b36
@@ -262,9 +252,7 @@ body.salla-theme_1 .product>a .product-title{
     color:#116b36
 }
 
-.product-add:hover span{
-   color: #fff;
-}
+
 
 body.salla-theme_1 .product .product-footer {
     border-top: 0;
@@ -286,13 +274,7 @@ body.salla-theme_1 .product .product-footer {
     background-repeat: repeat
 }
 
-.product-add span {
-    color: #fff;
-}
 
-.product-add span:hover {
-    color: #fff;
-}
 
 .product .product-title,
 .product>a .product-subtitle {
@@ -1242,30 +1224,12 @@ body {
     border-radius: 10px !important;
 }
 
-.product .product-footer .product-add {
-    display: block;
-    border: 1px solid #000000!important;
-    background: #116b36;
-    padding-bottom: 8px;
-    padding-top: 0;
-    margin: auto;
-    margin-bottom: 10px;
-    font-weight: 700;
-    border-radius: 1px 0px 32px 32px !important;
-    text-align: center;
-    color: #fff !important;
-    border: transparent solid 1px;
-    height: 57px !important;
-    width: 100%;
-}
+
 
 .add_to_cart_btn {
     color: #fff !important;
 }
 
-.product .product-footer .product-add:hover {
-    background: linear-gradient(to left, #3b4a55, #222127) !important;
-}
 
 .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories > li, .sub-nav .main-menu li.sub-menu-header.categories-holder > span, .sub-nav .sub-nav-content, .sub-nav-header {
     background: transparent !important;
@@ -1307,9 +1271,6 @@ body {
     margin-bottom: 10px !important;
 }
 
-.product .product-footer .product-add {
-    order: 2 !important;
-}
 
 body.salla-theme_4 .product .product-footer {
     display: flex !important;
