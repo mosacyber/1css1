@@ -2080,12 +2080,6 @@ section.section {
     border: 1px solid #eee;
     border-radius: 5px;
     color: #fff;
-}.btn-group {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    border: 2px solid #116b36;
-    border-radius: 5px;
 }.qty-field--custom .btn:before {
     background: #116b36;
     content: "";
