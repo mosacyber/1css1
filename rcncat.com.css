@@ -1534,11 +1534,7 @@ a {
     border: 2px solid #957b58 !important;
 }
 
-.cart-number, .active-step .cart-number {
-    color: #ffdcad!important;
-    border-color: #ffdcad!important;
-    background: #1b1829;
-}
+
 
 .cart-title {
     color: #116b36 !important;
@@ -1639,11 +1635,6 @@ body:not(.salla-theme_6) .category-featured {
     box-shadow: 2.5px 2.5px 5px #26222080, -2.5px -2.5px 5px #403b3861;
 }
 
-.cart-number, .active-step .cart-number {
-    color: #ffffff !important;
-    border-color: #ffdcad!important;
-    background: linear-gradient(to left, #3b4a55, #222127) !important;
-}
 
 .a2a_kit.a2a_kit_size_32.a2a_default_style {
     background: linear-gradient(to left, #116b36, #116b36) !important;
