@@ -136,7 +136,10 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li {
 }
 
 body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li>a {
-    color: #924189;
+    color: #fff;
+    background: #116b36;
+    border: 2px solid #fff;
+    border-radius: 16px;
 }
 
 .sub-nav li > ul a:hover {
