@@ -2151,4 +2151,6 @@ section.section {
     color: #116b36;
     -webkit-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
+}.product-add {
+    background: #116b36;
 }
