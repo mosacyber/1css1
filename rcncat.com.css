@@ -662,7 +662,7 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) a {
 
 
 .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories > li a {
-    border: #ffdcadsolid 1px !important;
+    border: #116b36solid 1px !important;
 }
 
 .footer-header {
@@ -697,12 +697,12 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) a {
 }
 
 .sub-nav .main-menu li.sub-menu-header.categories-holder > span {
-    border-top: 0px solid #ffdcad!important;
+    border-top: 0px solid #116b36!important;
 }
 
 @media (max-width: 991px) {
     .sub-nav .sub-nav-content .main-menu > li {
-        border-bottom: 0px solid #ffdcad!important;
+        border-bottom: 0px solid #116b36!important;
     }
 }
 
@@ -865,7 +865,7 @@ footer .footer-sub .footer-wrapper img, footer .footer-sub .fs-cont img {
 }
 
 .sub-nav-header a:hover {
-    color: #ffdcad!important;
+    color: #116b36!important;
     background: #2c323a !important;
     border: #fff solid 2px !important;
 }
@@ -1399,7 +1399,7 @@ span.sicon-instagram {
 }
 
 span.sicon-snapchat {
-    color: #ffdcad !important;
+    color: #116b36 !important;
     font-size: 100%;
 }
 
@@ -1420,7 +1420,7 @@ span.sicon-facebook {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    /* border-top: 2px solid #ffdcad; */
+    /* border-top: 2px solid #116b36; */
     /* border-radius: 3%; */
 }
 
@@ -1466,8 +1466,8 @@ section {
 body.salla-theme_1 .section-header .btn.btn-primary.btn-rounded, body.salla-theme_2 .section-header .btn.btn-primary.btn-rounded, body.salla-theme_4 .section-header .btn.btn-primary.btn-rounded {
     height: 36px;
     font-size: 15px;
-    color: #ffdcad!important;
-    border-color: #ffdcad!important;
+    color: #116b36!important;
+    border-color: #116b36!important;
     padding: 0 15px;
     background: linear-gradient(to left, #3b4a55, #222127) !important;
     transition: all 0.35s cubic-bezier(0.2, 1, 0.3, 1);
@@ -1526,7 +1526,7 @@ a {
 }
 
 #cart-content #cartTotal {
-    color: #ffdcad!important;
+    color: #116b36!important;
 }
 
 .delete-button {
@@ -1558,7 +1558,7 @@ a {
 }
 
 .circle-action:hover {
-    background: #ffdcad!important;
+    background: #116b36!important;
     color: #333e47 !important;
 }
 
@@ -1612,7 +1612,7 @@ body:not(.salla-theme_6) .category-featured {
 
 
 .sub-nav .main-menu li#ls_switcher_mobile a:before {
-    color: #ffdcad;
+    color: #116b36;
 }
 
 .cart-nav-submit, .cart-nav-more, .cart-nav-solid {
@@ -1624,7 +1624,7 @@ body:not(.salla-theme_6) .category-featured {
     display: block;
     width: 36px;
     height: 36px;
-    color: #ffdcad;
+    color: #116b36;
     text-align: center;
     line-height: 25px;
     border-radius: 5px;
