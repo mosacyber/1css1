@@ -2305,6 +2305,7 @@ body > footer > div.footer-main > div > div {
     text-align: left;
     background: #116b36;
     color: #fff;
+    padding-top: 10px;
 }footer .footer-sub .footer-wrapper img, footer .footer-sub .fs-cont img {
     width: unset !important;
     max-width: unset !important;
