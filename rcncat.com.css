@@ -164,9 +164,7 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li>a {
 
 
 
-.banner img {
-    border-radius: 10px;
-}
+
 
 
 
@@ -1642,9 +1640,7 @@ body:not(.salla-theme_6) .category-featured {
     border-radius: 30px;
 }
 
-.banner img {
-    border-radius: 25px;
-}
+
 
 .section[data-type="banner"] {
     padding: 0rem 0 0 !important;
