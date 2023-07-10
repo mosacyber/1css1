@@ -78,10 +78,7 @@ body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li:hover {
     margin-bottom: 25px;
 }
 
-body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) a {
-    color: #fff;
-    font-size: 17px !important;
-}
+
 
 body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) ul li>a{
     color: #333;
@@ -652,11 +649,7 @@ section.section {
     background-color: #ffffff !important;
 }
 
-body:not(.salla-theme_6) .main-menu li:not(.sub-menu-header) a {
-    /*position: relative; */
-    font-size: 9.5pt;
-    margin: 0px -8px 0px 0px;
-}
+
 
 
 .sub-nav .main-menu li.sub-menu-header.categories-holder ul.store-categories > li a {
