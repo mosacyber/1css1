@@ -934,14 +934,7 @@ footer .footer-sub .footer-wrapper img, footer .footer-sub .fs-cont img {
     display: none;
 }
 
-.login-link {
-    display: none;
-    right: auto;
-    padding: 0;
-    margin-left: 7px;
-    max-height: auto;
-    font-size: 16px;
-}
+
 
 .salla-theme_4 .site-header .logo-wrapper .logo img {
     width: auto;
@@ -1336,9 +1329,6 @@ a.circle-action.next.button-next, a.circle-action.prev.button-prev, a.circle-act
     background: #fff;
 }
 
-.login-link {
-    display: unset !important;
-}
 
 #search {
     position: relative;
