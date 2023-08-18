@@ -4,3 +4,7 @@
     background: #10956f;
     color: #fff;
 }}
+.flex-col {
+    flex-direction: column;
+    background: #000;
+}
