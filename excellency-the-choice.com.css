@@ -1,1 +1,17 @@
+.dark .da-tm {
+    color: #000000!important;
+}
 
+.dark .s-cart-summary-total {
+    color: #000000!important;
+}
+@media (max-width: 1200px){
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    background-color: #fff0;
+    padding: 6px;
+    border-radius: 8px;
+  display: none;
+    border: 1px groove #d61c7900;
+}}
